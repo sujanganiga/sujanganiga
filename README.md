@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SujanGaniga</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/3848914-Programmer-Thomas)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/3848914-Programmer-Thomas)](https://dribbble.com/shots/3848914-Programmer-Thomas)">
 
 - 💬 Ask me about **C++,java**
 
